@@ -1,0 +1,30 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "ejs": "*",
+    "ejs-lint": "^1.0.1",
+    "express": "4.16.1",
+    "express-logger": "0.0.3",
+    "express-myconnection": "*",
+    "jade": "*",
+    "method-override": "^2.3.10",
+    "morgan": "*",
+    "mysql2": "*",
+    "parser": "^0.1.4",
+    "sequelize": "4.28.4",
+    "twilio": "*"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-airbnb": "*",
+    "eslint-plugin-jsx-a11y": "*",
+    "eslint-plugin-react": "*",
+    "eslint-plugin-import": "*"
+  }
+}
