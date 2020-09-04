@@ -17,7 +17,7 @@
     "morgan": "*",
     "mysql2": "*",
     "parser": "^0.1.4",
-    "sequelize": "4.28.4",
+    "sequelize": "6.3.5",
     "twilio": "*"
   },
   "devDependencies": {
